@@ -1,0 +1,13 @@
+git
+vs
+WorkersAPI.sln
+bin/
+obj/
+WeatherForecastController.cs
+Debug/
+Program.cs
+Startup.cs
+WeatherForecast.cs
+WorkersAPI.csproj
+WorkersAPI.csproj.user
+Data/
